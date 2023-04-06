@@ -59,7 +59,7 @@ int main()
 	/*employee1.Name = "Christophe";
 	employee1.Compagny = "Programmation OOp";
 	employee1.Age = 34;*/
-	// fjfjgfgkgfkgfgfdgkgfnfkgfdk
+	
 	//introduce mz function
 	employee1.IntroduceYouself();
 	
