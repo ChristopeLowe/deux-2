@@ -36,6 +36,7 @@ public:
 	int Age;*/
 
 	//creation de la fonction
+	// deux apres ...
 
 	void IntroduceYouself(){
 		cout<< "Name - " << Name <<"\n";
