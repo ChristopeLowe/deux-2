@@ -37,6 +37,7 @@ public:
 
 	//creation de la fonction
 	// deux apres ...
+	//et toi tu est tjrs
 
 	void IntroduceYouself(){
 		cout<< "Name - " << Name <<"\n";
